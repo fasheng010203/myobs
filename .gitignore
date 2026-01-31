@@ -1,0 +1,45 @@
+# myobs Git Repository
+
+# Dependencies
+node_modules/
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Build outputs
+out/
+dist/
+build/
+*.mp4
+*.mov
+*.gif
+*.png
+*.jpg
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Environment variables
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*~
+
+# Logs
+*.log
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# Notes (if any private files)
+*.private.md
+*.secret.md
